@@ -27,7 +27,8 @@ I also used the impressive compressor [RegPack](https://github.com/Siorki/RegPac
 The final build size is:
 
 12.7 KiB (13064 bytes) Zipped
+
 28.4 KiB (29104 bytes) Unzipped
 
-- [bitnenfer](https://twitter.com/bitnenfer)
+// [bitnenfer](https://twitter.com/bitnenfer)
 
