@@ -1,0 +1,5 @@
+bin/
+bin_debug/
+tools/
+extern/
+*.bat
