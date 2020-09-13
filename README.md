@@ -3,7 +3,7 @@ La Once
 
 ![La Once](http://voidptr.io/images/LaOnce/big.png)
 
-This game was developed for the [JS13KGames Compo 2020 Edition](http://js13kgames.com/) for the Desktop category.
+This game was developed for the [JS13KGames Compo 2020 Edition](https://js13kgames.com/entries/la-once) for the Desktop category.
 
 La Once is a little interactive story of a grandkid called Rata and their grandma Patata. Rata visits Patata for la once and helps her with the preparations.
 
